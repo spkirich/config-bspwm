@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 # Launch sxhkd hotkey daemon if it hasn't been done yet. Because bspwm is a
 # lazy one and doen't mess with stuff like that.
